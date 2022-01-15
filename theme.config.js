@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – S.T.A.L.K.E.R. Mobile',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">S.T.A.L.K.E.R. Mobile</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Новости и описание мобильных проектов
       </span>
