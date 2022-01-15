@@ -1,26 +1,28 @@
-# Code Highlighting
-
-`nextra-theme-docs` uses [Prism](https://prismjs.com) and [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) 
-to highlight the code blocks. This section covers how you can customze it.
-
-## More Languages
-
-To keep the bundle small, only a [subset of languages](https://github.com/FormidableLabs/prism-react-renderer/blob/master/src/vendor/prism/includeLangs.js)
-are included in the syntax highlighter. If you want to add more languages, you can do the following:
-
-1. Run `yarn add prismjs prism-react-renderer` to add dependencies to your Nextra project.
-2. Add the following code to your `pages/_app.js`:
-
-```jsx
-import Prism from 'prism-react-renderer/prism'
-
-(typeof global !== "undefined" ? global : window).Prism = Prism
-
-require("prismjs/components/prism-kotlin")
-require("prismjs/components/prism-csharp")
-```
-
-Restart your app and you will have Kotlin and C# code highlighting supported. 
-You can find the full list of available languages [here](https://github.com/PrismJS/prism/tree/master/components).
-
-{/*## Custom Themes*/}
+# FAQ: Путь Зоны
+В: Какие системные требования?
+О: Минимум: 2 Гб ОЗУ, 4'ядерный процессор (1.8 ГГц), 2.5 Гб свободной памяти. Больше - лучше.
+В: Какой последний билд?
+О: 1.0.8 с оптимизацией
+В: Как скачать игру?
+О: Нажмите на значок группы, рядом с "Медиа" есть "Файлы" туда зайди и найдёшь. Или перейти в канал проекта, вот [ссылка](https://t.me/GartGame). Также в чате есть закреплённые сообщение, там и ищи. Когда АПК загрузился, надо его установить, все просто: Нажимаешь на него, можно прямо в Telegram'е, жмякаешь установить, ждешь.
+В: У меня выскакивает "Приложение не установлено", что делать?
+О: Эта проблема связана с телефоном, попробуй перекачать АПК и попробовать установить, если проблема повторяется то дело в телефоне: Недостаток памяти, 32 битная система или процессор. Недостаток памяти можно решить, но если процессор старый то нет. Да и X86'ые тоже не поддерживаются. 
+В: Я скачал, установил, что дальше?
+О: Зайди в игру, высветится окно с загрузкой ресурсов. Надо скачать все пункты, самый большой из них - Текстуры. После этого зайди в настройки, и скачай все локации (это самый низ настроек). Что дальше? Играй!!! (Кто не понял в главном меню надо нажать начать игру)
+В: Я нажимаю "Начать игру", но у меня зависает загрузка, что делать?
+О: Ничего) Ладно, убедись что скачал последний билд, если он старый (промежуточный) удали старую игру, установи новый АПК и загрузи ресурсы заново (и не забывайте докачивать локации в настройках)
+В: Я владелец IPhone, можно ли мне как-то поиграть в эту игру?
+О: Да, смотри в группе или в закреплённых сообщениях в чате. TestFlight 
+В: Когда выйдет следующий билд и что в нем будет?
+О: В билде 1.0.8 будет добавлены пушки, автор пока что не уточнял какие конкретно. В билде 1.0.9 планируется ИИ, вроде бы перемещение НПС по карте, думаю что о сражениях пока что речи нет, о мутантах тоже ничего не сказано.
+В: У меня текстуры растительности черные, как исправить?
+В: А сколько сама игра весит?
+О: Примерно 2.5 Гб
+В: Почему я могу купить Гаусс-пушку у любого сталкера?
+О: Инвентарь сталкеров рандомен, это исправят... Когда-то.
+В: Что тут вообще можно делать?
+О: Гулять по локациям, обворовывать нычки или ждать новый билд с пушками.
+В: Я дошел до ЧАЭС, что делать дальше?
+О: Неси все консервные банки к Сидоровичу!
+В: Я нашел баг!
+О: Пожалуйста, не надо об этом писать! Можете добавлять баги [сюда](https://docs.google.com/spreadsheets/d/1mBtWJQlUuLoZlIEn4EfrWRHexLmpHeVclqOKVKGB8LM/edit?usp=sharing), только обязательно проверьте, что такого бага в таблицу еще не занесли!
