@@ -1,6 +1,6 @@
-# [Nextra](https://nextra.vercel.app)
+# [Нкбольшой сайт посвящённый переносу трилогии S.T.A.L.K.E.R.](https://stalker.vercel.app)
 
-_Warning: this project is not production ready, API might change without notice._
+_Warning: сайт не доделан._
 
 [![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
 
