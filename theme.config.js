@@ -1,6 +1,4 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – S.T.A.L.K.E.R. Mobile',
   logo: (
     <>
