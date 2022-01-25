@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://stalker.vercel.app/</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/start</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/other</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/history/zone</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/history/csu</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/history/copm</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/history/nikitar</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/history/oldproject</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/themes</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/themes/configuration</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/themes/callout</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/themes/nikitar</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/themes/oldproject</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/advanced/faq-zone</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/advanced/faq-csu</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/advanced/faq-copm</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/advanced/faq-stme</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://stalker.vercel.app/about</loc>
+  <lastmod>2022-01-25T15:37:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
