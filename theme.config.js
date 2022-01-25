@@ -17,12 +17,12 @@ export default {
       <meta name="description" content="S.T.A.L.K.E.R. Mobile News" />
       <meta name="og:description" content="S.T.A.L.K.E.R. Mobile News" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
+      <meta name="twitter:image" content="https://stalker.vercel.app/og.png" />
+      <meta name="twitter:site:domain" content="stalker.vercel.app" />
+      <meta name="twitter:url" content="https://stalker.vercel.app" />
       <meta name="og:title" content="S.T.A.L.K.E.R. Mobile News" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="og:image" content="https://stalker.vercel.app/og.png" />
+      <meta name="apple-mobile-web-app-title" content="S.T.A.L.K.E.R. Mobile" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
