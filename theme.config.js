@@ -56,9 +56,9 @@ export default {
     </>
   ),
   search: false,
-  prevLinks: true,
-  nextLinks: true,
-  footer: true,
+  prevLinks: false,
+  nextLinks: false,
+  footer: false,
   footerText: <> {new Date().getFullYear()} © Неравнодушный сталкер</>,
   unstable_faviconGlyph: '👋',
 }
