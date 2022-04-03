@@ -58,7 +58,7 @@ export default {
   search: false,
   prevLinks: false,
   nextLinks: false,
-  footer: true,
+  footer: false,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <> {new Date().getFullYear()} © Неравнодушный сталкер</>,
   unstable_faviconGlyph: '☢️',
